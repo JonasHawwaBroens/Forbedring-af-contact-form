@@ -71,6 +71,32 @@
     color: white;
   }
 
+  .data-element-2 {
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 10px;
+    top: 475px;
+    opacity: 95%;
+    font-family:'IBM Plex Sans', sans-serif;
+    color: white;
+  }
+
+  .data-element-3 {
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 10px;
+    top: 562px;
+    opacity: 95%;
+    font-family:'IBM Plex Sans', sans-serif;
+    color: white;
+  }
+
   .form-text {
     position: absolute;
     left: 10px;
