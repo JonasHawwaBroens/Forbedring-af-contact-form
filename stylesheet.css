@@ -15,17 +15,19 @@
     background-image: url(images/quadsatlogo.jpg);
     background-size: cover;
     padding: 5px;
-    height:125px;
-    width: 125px;
-    left: 10px;
-    top: 15px;
+    height:100px;
+    width: 100px;
+    position: absolute;
+    left: 45px;
+    top: 45px;
     border-radius: 50%;
   }
 
   .form-group {
     position: relative;
     margin-bottom: 28px;
-    top: 5%;
+    top: 15%;
+    left: 5%;
   }
 
   .gt-input {
