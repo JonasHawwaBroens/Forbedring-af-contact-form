@@ -7,22 +7,25 @@
     top: 7.5px;
     left: 100px;
     padding: 32px 20px;
+    border-radius: 25px;
   }
 
   .quadsat-logo {
     display: grid;
-    background-color: white;
+    background-image: url(images/quadsatlogo.jpg);
+    background-size: cover;
     padding: 5px;
-    height:30px;
-    width: 30px;
+    height:125px;
+    width: 125px;
     left: 10px;
-    top: 15 px;
+    top: 15px;
+    border-radius: 50%;
   }
 
   .form-group {
     position: relative;
     margin-bottom: 28px;
-    top: 10%;
+    top: 5%;
   }
 
   .gt-input {
@@ -65,7 +68,7 @@
     font-size: 30px;
     font-weight: bold;
     left: 10px;
-    top: 417px;
+    top: 420px;
     opacity: 95%;
     font-family:'IBM Plex Sans', sans-serif;
     color: white;
@@ -78,7 +81,7 @@
     font-size: 30px;
     font-weight: bold;
     left: 10px;
-    top: 475px;
+    top: 482px;
     opacity: 95%;
     font-family:'IBM Plex Sans', sans-serif;
     color: white;
@@ -91,7 +94,7 @@
     font-size: 30px;
     font-weight: bold;
     left: 10px;
-    top: 562px;
+    top: 570px;
     opacity: 95%;
     font-family:'IBM Plex Sans', sans-serif;
     color: white;
@@ -100,7 +103,7 @@
   .form-text {
     position: absolute;
     left: 10px;
-    top: 425px;
+    top: 432px;
     padding-left: 50px;
     padding-right: 60px;
     font-size: 25px;
@@ -123,6 +126,7 @@
     color: white;
     background-color: #547ac0;
     transition: .4s;
+    border-radius: 15px;
   }
 
   .gt-button:hover {
@@ -139,10 +143,11 @@
   }
 
   .move-up {
-    margin-top: -15px;
+    margin-top: -30px;
     margin-left: 350px;
     font-size: 14px;
     background: #41b3ff;
     padding: 4px 8px;
     min-width: 200px;
+    border-radius: 15px;
   }
